@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesGcmEncryptionService", "AesGcmEncryptionService.csproj", "{66A7C6AF-7B0C-4ACE-9499-00A53E8A1FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesGcmEncryptionServiceTests", "..\AesGcmEncryptionServiceTests\AesGcmEncryptionServiceTests.csproj", "{CFBA060F-503A-4BF6-BF4B-6AAF2FCFC1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A7C6AF-7B0C-4ACE-9499-00A53E8A1FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A7C6AF-7B0C-4ACE-9499-00A53E8A1FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A7C6AF-7B0C-4ACE-9499-00A53E8A1FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A7C6AF-7B0C-4ACE-9499-00A53E8A1FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBA060F-503A-4BF6-BF4B-6AAF2FCFC1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBA060F-503A-4BF6-BF4B-6AAF2FCFC1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBA060F-503A-4BF6-BF4B-6AAF2FCFC1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBA060F-503A-4BF6-BF4B-6AAF2FCFC1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28718823-A29E-4AE9-92BF-57AB7419113C}
+	EndGlobalSection
+EndGlobal
