@@ -19,7 +19,6 @@ AES-GCM (Galois/Counter Mode) is a widely used encryption algorithm that provide
 - `IAesGcmEncryptionService.cs` - Defines the contract for AES-GCM encryption and decryption services.
 - `AesGcmEncryptionService.cs` - Implements the AES-GCM encryption and decryption logic.
 - `AesGcmEncryptionServiceTests.cs` - Contains xUnit tests for the encryption service.
-- `Program.cs` - Entry point for the .NET project (if needed).
 - `README.md` - Project documentation (this file).
 
 ## Features
@@ -32,7 +31,7 @@ AES-GCM (Galois/Counter Mode) is a widely used encryption algorithm that provide
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/aes-gcm-encryption.git
+   git clone https://github.com/sametkayikci/aes-gcm-encryption.git
    ```
 2. Navigate to the project directory:
    ```bash
